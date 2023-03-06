@@ -1,0 +1,16 @@
+D:\С#\Laba4\Laba4\bin\Debug\net5.0\Laba4.exe
+D:\С#\Laba4\Laba4\bin\Debug\net5.0\Laba4.deps.json
+D:\С#\Laba4\Laba4\bin\Debug\net5.0\Laba4.runtimeconfig.json
+D:\С#\Laba4\Laba4\bin\Debug\net5.0\Laba4.runtimeconfig.dev.json
+D:\С#\Laba4\Laba4\bin\Debug\net5.0\Laba4.dll
+D:\С#\Laba4\Laba4\bin\Debug\net5.0\ref\Laba4.dll
+D:\С#\Laba4\Laba4\bin\Debug\net5.0\Laba4.pdb
+D:\С#\Laba4\Laba4\obj\Debug\net5.0\Laba4.csproj.AssemblyReference.cache
+D:\С#\Laba4\Laba4\obj\Debug\net5.0\Laba4.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Laba4\Laba4\obj\Debug\net5.0\Laba4.AssemblyInfoInputs.cache
+D:\С#\Laba4\Laba4\obj\Debug\net5.0\Laba4.AssemblyInfo.cs
+D:\С#\Laba4\Laba4\obj\Debug\net5.0\Laba4.csproj.CoreCompileInputs.cache
+D:\С#\Laba4\Laba4\obj\Debug\net5.0\Laba4.dll
+D:\С#\Laba4\Laba4\obj\Debug\net5.0\ref\Laba4.dll
+D:\С#\Laba4\Laba4\obj\Debug\net5.0\Laba4.pdb
+D:\С#\Laba4\Laba4\obj\Debug\net5.0\Laba4.genruntimeconfig.cache
